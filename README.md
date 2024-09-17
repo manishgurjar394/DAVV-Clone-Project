@@ -11,6 +11,7 @@ Technologies Used:
 
 ReactJS
 React Router
+React Icon
 useNavigate Hook
 useState Hook
 Context API
